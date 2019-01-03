@@ -1,0 +1,20 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "emailsend",
+  "main": "resume.js",
+  "scripts": {
+    "start": "resume.js"
+  },
+  "author": "utsha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.6.8",
+    "oauth2": "0.0.1",
+    "pug": "^2.0.3"
+  }
+}
